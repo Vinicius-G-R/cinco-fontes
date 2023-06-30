@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300;400;500;600;700&family=Oleo+Script:wght@400;700&family=Satisfy&family=Yantramanav:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    background-color: #121212;
+    text-align: justify;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color: #FF5202;
+}
+
+p {
+    text-indent: 25px;
+    color: azure;
+    font-size: 18px;
+}
+
+.Font1CretRoud {
+    font-family: 'Crete Round', serif;
+}
+
+.Font2Yantramanav {
+    font-family: Yantramanav, sans-serif;
+}
+
+.Font3FiraCode {
+    font-family: 'Fira Code', monospace;
+}
+
+.Font4OleoScript {
+    font-family: 'Oleo Script', fantasy; 
+}
+
+.Font5Satisfy {
+    font-family: Satisfy, cursive; 
+}
